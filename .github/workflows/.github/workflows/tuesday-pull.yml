@@ -1,0 +1,47 @@
+name: Tuesday league pull
+
+on:
+  schedule:
+    - cron: '0 13 * * 2'    # 13:00 UTC Tuesday = 9am ET
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Pull every season from Sleeper
+        run: python3 pull.py
+
+      - name: Verify the data before anything uses it
+        run: python3 verify_claims.py --data sleeper_history
+
+      - name: Commit
+        run: |
+          git config user.name  "Amanda Belichick"
+          git config user.email "amanda@users.noreply.github.com"
+          git add sleeper_history/
+          git diff --staged --quiet || git commit -m "Tuesday pull"
+          git push
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+                                                                                                                                     1,1           All

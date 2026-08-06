@@ -1,0 +1,1663 @@
+{
+ "captured_at_utc": "2026-08-06T23:55:02Z",
+ "season": "2026",
+ "week": 0,
+ "roster_positions": [
+  "QB",
+  "RB",
+  "RB",
+  "WR",
+  "WR",
+  "WR",
+  "TE",
+  "FLEX",
+  "SUPER_FLEX",
+  "K",
+  "DEF"
+ ],
+ "owners": {
+  "1": "gilbertb12",
+  "2": "mcryns14",
+  "3": "cj21k",
+  "4": "GregoryOdensKnees",
+  "5": "Denk0",
+  "6": "aleksthebrun",
+  "7": "natergater24",
+  "8": "wiggitywakes",
+  "9": "goatnasty",
+  "10": "Naughtynun"
+ },
+ "lineups": {},
+ "players": {
+  "421": {
+   "name": "Matthew Stafford",
+   "position": "QB",
+   "team": "LAR",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 17
+  },
+  "12489": {
+   "name": "RJ Harvey",
+   "position": "RB",
+   "team": "DEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "5892": {
+   "name": "David Montgomery",
+   "position": "RB",
+   "team": "HOU",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "7049": {
+   "name": "Jauan Jennings",
+   "position": "WR",
+   "team": "MIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "10232": {
+   "name": "Michael Wilson",
+   "position": "WR",
+   "team": "ARI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "8183": {
+   "name": "Brock Purdy",
+   "position": "QB",
+   "team": "SF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "8155": {
+   "name": "Breece Hall",
+   "position": "RB",
+   "team": "NYJ",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "12517": {
+   "name": "Colston Loveland",
+   "position": "TE",
+   "team": "CHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "6804": {
+   "name": "Jordan Love",
+   "position": "QB",
+   "team": "GB",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "12522": {
+   "name": "Cam Ward",
+   "position": "QB",
+   "team": "TEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "GB": {
+   "name": "Green Bay Packers",
+   "position": "DEF",
+   "team": "GB",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "KC": {
+   "name": "Kansas City Chiefs",
+   "position": "DEF",
+   "team": "KC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "12507": {
+   "name": "Omarion Hampton",
+   "position": "RB",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "11564": {
+   "name": "Drake Maye",
+   "position": "QB",
+   "team": "NE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "12535": {
+   "name": "Isaac TeSlaa",
+   "position": "WR",
+   "team": "DET",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "6801": {
+   "name": "Tee Higgins",
+   "position": "WR",
+   "team": "CIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "12493": {
+   "name": "Oronde Gadsden",
+   "position": "TE",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "1339": {
+   "name": "Zach Ertz",
+   "position": "TE",
+   "team": null,
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 13
+  },
+  "2133": {
+   "name": "Davante Adams",
+   "position": "WR",
+   "team": "LAR",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 12
+  },
+  "4217": {
+   "name": "George Kittle",
+   "position": "TE",
+   "team": "SF",
+   "injury_status": "PUP",
+   "injury_body_part": "Achilles",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 9
+  },
+  "11627": {
+   "name": "Troy Franklin",
+   "position": "WR",
+   "team": "DEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "7523": {
+   "name": "Trevor Lawrence",
+   "position": "QB",
+   "team": "JAX",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "NE": {
+   "name": "New England Patriots",
+   "position": "DEF",
+   "team": "NE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "7021": {
+   "name": "Rico Dowdle",
+   "position": "RB",
+   "team": "PIT",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "9509": {
+   "name": "Bijan Robinson",
+   "position": "RB",
+   "team": "ATL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "5859": {
+   "name": "A.J. Brown",
+   "position": "WR",
+   "team": "NE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "7526": {
+   "name": "Jaylen Waddle",
+   "position": "WR",
+   "team": "DEN",
+   "injury_status": "Questionable",
+   "injury_body_part": "Undisclosed",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "7588": {
+   "name": "Javonte Williams",
+   "position": "RB",
+   "team": "DAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "10236": {
+   "name": "Dalton Kincaid",
+   "position": "TE",
+   "team": "BUF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "12527": {
+   "name": "Ashton Jeanty",
+   "position": "RB",
+   "team": "LV",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "8144": {
+   "name": "Chris Olave",
+   "position": "WR",
+   "team": "NO",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "IND": {
+   "name": "Indianapolis Colts",
+   "position": "DEF",
+   "team": "IND",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "8134": {
+   "name": "Khalil Shakir",
+   "position": "WR",
+   "team": "BUF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "11655": {
+   "name": "Tyrone Tracy",
+   "position": "RB",
+   "team": "NYG",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "1479": {
+   "name": "Keenan Allen",
+   "position": "WR",
+   "team": null,
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 13
+  },
+  "12509": {
+   "name": "Tre' Harris",
+   "position": "WR",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "7569": {
+   "name": "Nico Collins",
+   "position": "WR",
+   "team": "HOU",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "6794": {
+   "name": "Justin Jefferson",
+   "position": "WR",
+   "team": "MIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "6819": {
+   "name": "Michael Pittman",
+   "position": "WR",
+   "team": "PIT",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "3163": {
+   "name": "Jared Goff",
+   "position": "QB",
+   "team": "DET",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 10
+  },
+  "1945": {
+   "name": "Chris Boswell",
+   "position": "K",
+   "team": "PIT",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 12
+  },
+  "9504": {
+   "name": "Kayshon Boutte",
+   "position": "WR",
+   "team": "NE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "9226": {
+   "name": "De'Von Achane",
+   "position": "RB",
+   "team": "MIA",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "9753": {
+   "name": "Zach Charbonnet",
+   "position": "RB",
+   "team": "SEA",
+   "injury_status": "PUP",
+   "injury_body_part": "Knee - ACL",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "5850": {
+   "name": "Josh Jacobs",
+   "position": "RB",
+   "team": "GB",
+   "injury_status": "Questionable",
+   "injury_body_part": "Groin",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "3451": {
+   "name": "Ka'imi Fairbairn",
+   "position": "K",
+   "team": "HOU",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 10
+  },
+  "8150": {
+   "name": "Kyren Williams",
+   "position": "RB",
+   "team": "LAR",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "PHI": {
+   "name": "Philadelphia Eagles",
+   "position": "DEF",
+   "team": "PHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "10859": {
+   "name": "Sam LaPorta",
+   "position": "TE",
+   "team": "DET",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "11589": {
+   "name": "Trey Benson",
+   "position": "RB",
+   "team": "ARI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "11539": {
+   "name": "Jake Bates",
+   "position": "K",
+   "team": "DET",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "5846": {
+   "name": "DK Metcalf",
+   "position": "WR",
+   "team": "PIT",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "11631": {
+   "name": "Brian Thomas",
+   "position": "WR",
+   "team": "JAX",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "12498": {
+   "name": "Mason Taylor",
+   "position": "TE",
+   "team": "NYJ",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "3198": {
+   "name": "Derrick Henry",
+   "position": "RB",
+   "team": "BAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 10
+  },
+  "11620": {
+   "name": "Rome Odunze",
+   "position": "WR",
+   "team": "CHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "9506": {
+   "name": "Sean Tucker",
+   "position": "RB",
+   "team": "TB",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "12484": {
+   "name": "Jayden Higgins",
+   "position": "WR",
+   "team": "HOU",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "9484": {
+   "name": "Tucker Kraft",
+   "position": "TE",
+   "team": "GB",
+   "injury_status": "Questionable",
+   "injury_body_part": "Knee - ACL",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "12481": {
+   "name": "Cam Skattebo",
+   "position": "RB",
+   "team": "NYG",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "4034": {
+   "name": "Christian McCaffrey",
+   "position": "RB",
+   "team": "SF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 9
+  },
+  "11604": {
+   "name": "Brock Bowers",
+   "position": "TE",
+   "team": "LV",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "8676": {
+   "name": "Rashid Shaheed",
+   "position": "WR",
+   "team": "SEA",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "4199": {
+   "name": "Aaron Jones",
+   "position": "RB",
+   "team": "MIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 9
+  },
+  "11786": {
+   "name": "Cam Little",
+   "position": "K",
+   "team": "JAX",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "8112": {
+   "name": "Drake London",
+   "position": "WR",
+   "team": "ATL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "12500": {
+   "name": "Quinn Ewers",
+   "position": "QB",
+   "team": "MIA",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "PIT": {
+   "name": "Pittsburgh Steelers",
+   "position": "DEF",
+   "team": "PIT",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "6803": {
+   "name": "Brandon Aiyuk",
+   "position": "WR",
+   "team": "SF",
+   "injury_status": "DNR",
+   "injury_body_part": "Knee - ACL + MCL",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "12534": {
+   "name": "Kyle Monangai",
+   "position": "RB",
+   "team": "CHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "1466": {
+   "name": "Travis Kelce",
+   "position": "TE",
+   "team": "KC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 13
+  },
+  "HOU": {
+   "name": "Houston Texans",
+   "position": "DEF",
+   "team": "HOU",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "12514": {
+   "name": "Emeka Egbuka",
+   "position": "WR",
+   "team": "TB",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "8130": {
+   "name": "Trey McBride",
+   "position": "TE",
+   "team": "ARI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "9221": {
+   "name": "Jahmyr Gibbs",
+   "position": "RB",
+   "team": "DET",
+   "injury_status": "Questionable",
+   "injury_body_part": "Back",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "4984": {
+   "name": "Josh Allen",
+   "position": "QB",
+   "team": "BUF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 8
+  },
+  "6770": {
+   "name": "Joe Burrow",
+   "position": "QB",
+   "team": "CIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "4454": {
+   "name": "Kendrick Bourne",
+   "position": "WR",
+   "team": "ARI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 9
+  },
+  "10226": {
+   "name": "Andrei Iosivas",
+   "position": "WR",
+   "team": "CIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "8259": {
+   "name": "Cameron Dicker",
+   "position": "K",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "12512": {
+   "name": "Quinshon Judkins",
+   "position": "RB",
+   "team": "CLE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "DEN": {
+   "name": "Denver Broncos",
+   "position": "DEF",
+   "team": "DEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "4098": {
+   "name": "Kareem Hunt",
+   "position": "RB",
+   "team": null,
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 9
+  },
+  "8137": {
+   "name": "George Pickens",
+   "position": "WR",
+   "team": "DAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "7002": {
+   "name": "Juwan Johnson",
+   "position": "TE",
+   "team": "NO",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "11566": {
+   "name": "Jayden Daniels",
+   "position": "QB",
+   "team": "WAS",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "LAC": {
+   "name": "Los Angeles Chargers",
+   "position": "DEF",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "17": {
+   "name": "Matt Prater",
+   "position": "K",
+   "team": null,
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 20
+  },
+  "11584": {
+   "name": "Bucky Irving",
+   "position": "RB",
+   "team": "TB",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "11635": {
+   "name": "Ladd McConkey",
+   "position": "WR",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "SF": {
+   "name": "San Francisco 49ers",
+   "position": "DEF",
+   "team": "SF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "4866": {
+   "name": "Saquon Barkley",
+   "position": "RB",
+   "team": "PHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 8
+  },
+  "7611": {
+   "name": "Rhamondre Stevenson",
+   "position": "RB",
+   "team": "NE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "7547": {
+   "name": "Amon-Ra St. Brown",
+   "position": "WR",
+   "team": "DET",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "12518": {
+   "name": "Tyler Warren",
+   "position": "TE",
+   "team": "IND",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "3294": {
+   "name": "Dak Prescott",
+   "position": "QB",
+   "team": "DAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 10
+  },
+  "6813": {
+   "name": "Jonathan Taylor",
+   "position": "RB",
+   "team": "IND",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "5872": {
+   "name": "Deebo Samuel",
+   "position": "WR",
+   "team": "SF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "5045": {
+   "name": "Courtland Sutton",
+   "position": "WR",
+   "team": "DEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 8
+  },
+  "8138": {
+   "name": "James Cook",
+   "position": "RB",
+   "team": "BUF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "12524": {
+   "name": "Shedeur Sanders",
+   "position": "QB",
+   "team": "CLE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "2020": {
+   "name": "Cairo Santos",
+   "position": "K",
+   "team": "CHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 12
+  },
+  "12508": {
+   "name": "Jaxson Dart",
+   "position": "QB",
+   "team": "NYG",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "11586": {
+   "name": "Blake Corum",
+   "position": "RB",
+   "team": "LAR",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "12538": {
+   "name": "Brady Cook",
+   "position": "QB",
+   "team": "NYJ",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "6783": {
+   "name": "Jerry Jeudy",
+   "position": "WR",
+   "team": "CLE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "12547": {
+   "name": "Kyle Williams",
+   "position": "WR",
+   "team": "NE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "8228": {
+   "name": "Jaylen Warren",
+   "position": "RB",
+   "team": "PIT",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "5947": {
+   "name": "Jakobi Meyers",
+   "position": "WR",
+   "team": "JAX",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "331": {
+   "name": "Philip Rivers",
+   "position": "QB",
+   "team": null,
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 22
+  },
+  "12545": {
+   "name": "Tyler Shough",
+   "position": "QB",
+   "team": "NO",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "11624": {
+   "name": "Xavier Worthy",
+   "position": "WR",
+   "team": "KC",
+   "injury_status": "Questionable",
+   "injury_body_part": "Shoulder",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "12529": {
+   "name": "TreVeyon Henderson",
+   "position": "RB",
+   "team": "NE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "6786": {
+   "name": "CeeDee Lamb",
+   "position": "WR",
+   "team": "DAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "11597": {
+   "name": "Theo Johnson",
+   "position": "TE",
+   "team": "NYG",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "7607": {
+   "name": "Michael Carter",
+   "position": "RB",
+   "team": "TEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "7525": {
+   "name": "DeVonta Smith",
+   "position": "WR",
+   "team": "PHI",
+   "injury_status": "Questionable",
+   "injury_body_part": "Hamstring",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "9224": {
+   "name": "Chase Brown",
+   "position": "RB",
+   "team": "CIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "4881": {
+   "name": "Lamar Jackson",
+   "position": "QB",
+   "team": "BAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 8
+  },
+  "12506": {
+   "name": "Harold Fannin",
+   "position": "TE",
+   "team": "CLE",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "4983": {
+   "name": "DJ Moore",
+   "position": "WR",
+   "team": "BUF",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 8
+  },
+  "9997": {
+   "name": "Zay Flowers",
+   "position": "WR",
+   "team": "BAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "2747": {
+   "name": "Jason Myers",
+   "position": "K",
+   "team": "SEA",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 11
+  },
+  "6797": {
+   "name": "Justin Herbert",
+   "position": "QB",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "7553": {
+   "name": "Kyle Pitts",
+   "position": "TE",
+   "team": "ATL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "11435": {
+   "name": "Emanuel Wilson",
+   "position": "RB",
+   "team": "SEA",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "12519": {
+   "name": "Luther Burden",
+   "position": "WR",
+   "team": "CHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "9756": {
+   "name": "Jordan Addison",
+   "position": "WR",
+   "team": "MIN",
+   "injury_status": "Questionable",
+   "injury_body_part": "Thumb",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "5967": {
+   "name": "Tony Pollard",
+   "position": "RB",
+   "team": "TEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "12474": {
+   "name": "Woody Marks",
+   "position": "RB",
+   "team": "HOU",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "7567": {
+   "name": "Kenny Gainwell",
+   "position": "RB",
+   "team": "TB",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "11533": {
+   "name": "Brandon Aubrey",
+   "position": "K",
+   "team": "DAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "9493": {
+   "name": "Puka Nacua",
+   "position": "WR",
+   "team": "LAR",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "12711": {
+   "name": "Tyler Loop",
+   "position": "K",
+   "team": "BAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "5022": {
+   "name": "Dallas Goedert",
+   "position": "TE",
+   "team": "PHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 8
+  },
+  "10229": {
+   "name": "Rashee Rice",
+   "position": "WR",
+   "team": "KC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "11643": {
+   "name": "Jaylen Wright",
+   "position": "RB",
+   "team": "MIA",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "11625": {
+   "name": "Adonai Mitchell",
+   "position": "WR",
+   "team": "NYJ",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "5927": {
+   "name": "Terry McLaurin",
+   "position": "WR",
+   "team": "WAS",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 7
+  },
+  "9479": {
+   "name": "Darnell Washington",
+   "position": "TE",
+   "team": "PIT",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "6790": {
+   "name": "D'Andre Swift",
+   "position": "RB",
+   "team": "CHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 6
+  },
+  "2216": {
+   "name": "Mike Evans",
+   "position": "WR",
+   "team": "SF",
+   "injury_status": "Questionable",
+   "injury_body_part": "Quadriceps",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 12
+  },
+  "11647": {
+   "name": "Kimani Vidal",
+   "position": "RB",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "8142": {
+   "name": "Alec Pierce",
+   "position": "WR",
+   "team": "IND",
+   "injury_status": "PUP",
+   "injury_body_part": "Ankle",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "7564": {
+   "name": "Ja'Marr Chase",
+   "position": "WR",
+   "team": "CIN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "8148": {
+   "name": "Jameson Williams",
+   "position": "WR",
+   "team": "DET",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "12530": {
+   "name": "Travis Hunter",
+   "position": "WR",
+   "team": "JAX",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "12526": {
+   "name": "Tetairoa McMillan",
+   "position": "WR",
+   "team": "CAR",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "4046": {
+   "name": "Patrick Mahomes",
+   "position": "QB",
+   "team": "KC",
+   "injury_status": "Questionable",
+   "injury_body_part": "Knee - ACL",
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 9
+  },
+  "2449": {
+   "name": "Stefon Diggs",
+   "position": "WR",
+   "team": "WAS",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 11
+  },
+  "8151": {
+   "name": "Kenneth Walker",
+   "position": "RB",
+   "team": "KC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "3257": {
+   "name": "Jacoby Brissett",
+   "position": "QB",
+   "team": "ARI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 10
+  },
+  "LAR": {
+   "name": "Los Angeles Rams",
+   "position": "DEF",
+   "team": "LAR",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": null,
+   "years_exp": null
+  },
+  "9500": {
+   "name": "Josh Downs",
+   "position": "WR",
+   "team": "IND",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "8126": {
+   "name": "Wan'Dale Robinson",
+   "position": "WR",
+   "team": "TEN",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "12455": {
+   "name": "Brashard Smith",
+   "position": "RB",
+   "team": "KC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "8110": {
+   "name": "Jake Ferguson",
+   "position": "TE",
+   "team": "DAL",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 4
+  },
+  "9488": {
+   "name": "Jaxon Smith-Njigba",
+   "position": "WR",
+   "team": "SEA",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  },
+  "7543": {
+   "name": "Travis Etienne",
+   "position": "RB",
+   "team": "NO",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 5
+  },
+  "12501": {
+   "name": "Matthew Golden",
+   "position": "WR",
+   "team": "GB",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 1
+  },
+  "11560": {
+   "name": "Caleb Williams",
+   "position": "QB",
+   "team": "CHI",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 2
+  },
+  "4381": {
+   "name": "Taysom Hill",
+   "position": "TE",
+   "team": null,
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 9
+  },
+  "9754": {
+   "name": "Quentin Johnston",
+   "position": "WR",
+   "team": "LAC",
+   "injury_status": null,
+   "injury_body_part": null,
+   "practice_participation": null,
+   "status": "Active",
+   "years_exp": 3
+  }
+ }
+}

@@ -1,0 +1,46 @@
+name: Sunday pre-lock snapshot
+
+on:
+  schedule:
+    # 15:20 and 15:50 UTC = 11:20am and 11:50am ET. Run twice because GitHub's
+    # scheduler is best-effort and can lag; the later run overwrites the earlier.
+    - cron: '20 15 * 9,10,11,12 0'
+    - cron: '50 15 * 9,10,11,12 0'
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Capture lineups and injury designations
+        run: python3 snapshot.py
+      - name: Commit the snapshot
+        run: |
+          git config user.name  "Amanda Belichick"
+          git config user.email "amanda@users.noreply.github.com"
+          git add snapshots/
+          git diff --staged --quiet || git commit -m "Sunday snapshot"
+          git push
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+                                                                                                                                     1,1           All

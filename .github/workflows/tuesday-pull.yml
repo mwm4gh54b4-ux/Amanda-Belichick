@@ -30,18 +30,3 @@ jobs:
           git add sleeper_history/
           git diff --staged --quiet || git commit -m "Tuesday pull"
           git push
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-                                                                                                                                     1,1           All

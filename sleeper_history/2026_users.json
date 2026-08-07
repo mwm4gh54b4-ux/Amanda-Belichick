@@ -1,0 +1,206 @@
+[
+ {
+  "avatar": "c3e110966e228cd4ecbba5ed3cfa5978",
+  "display_name": "mcryns14",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "off",
+   "team_name": "Mush Tendencies",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "420615526545371136"
+ },
+ {
+  "avatar": "3ff34004f13a823510bc520d4f0c1c99",
+  "display_name": "natergater24",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/f37ede4951e8cf154482c0773f0692c7.jpg",
+   "mention_pn": "on",
+   "team_name": "MaHomelander"
+  },
+  "settings": null,
+  "user_id": "461523110798028800"
+ },
+ {
+  "avatar": "9bfe7a5b379ab92769a74c8c8223198a",
+  "display_name": "cj21k",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/a92418b568c4f71d5317fc8389ab297b.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "off",
+   "team_name": "Scott\u2019s Tots",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "598597175282294784"
+ },
+ {
+  "avatar": "7e45c00202a9b0d3768255f32dd18b5f",
+  "display_name": "aleksthebrun",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/7eaa783da571054511793dd885907464.jpg",
+   "mention_pn": "on",
+   "team_name": "Paper 3rd Place"
+  },
+  "settings": null,
+  "user_id": "609820611241381888"
+ },
+ {
+  "avatar": "ff68cd60e27809b24a05d5fea49ddfe7",
+  "display_name": "goatnasty",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/e82d2e542b63db74417f86341624ca28.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "TonyHawkTua",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "753769537157132288"
+ },
+ {
+  "avatar": "b3338675f635c2c1f42b469621d38ec6",
+  "display_name": "gilbertb12",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "mention_pn": "on",
+   "team_name": "Schindler\u2019s Fist"
+  },
+  "settings": null,
+  "user_id": "755983733399777280"
+ },
+ {
+  "avatar": "d1a50700e2c552b408123691d2c83f84",
+  "display_name": "Denk0",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "avatar": "https://sleepercdn.com/uploads/cb91f857eb03665a6cd7d169750b2e1e.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "The Replacements",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "994438877710475264"
+ },
+ {
+  "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+  "display_name": "wiggitywakes",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "mention_pn": "on",
+   "team_name": "Daniel Jones Apology Tour"
+  },
+  "settings": null,
+  "user_id": "994443865597755392"
+ },
+ {
+  "avatar": "4546587713ee99103040591e74d63ce5",
+  "display_name": "GregoryOdensKnees",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "league_report_pn": "on",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "Taco",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "994482107223224320"
+ },
+ {
+  "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+  "display_name": "Naughtynun",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1388695778494517248",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "Paper Champs"
+  },
+  "settings": null,
+  "user_id": "994730649632260096"
+ }
+]

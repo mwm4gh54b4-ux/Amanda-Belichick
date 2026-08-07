@@ -21,6 +21,8 @@ jobs:
         run: python3 pull.py
       - name: Refresh the player file
         run: python3 pull_players.py --out sleeper_history
+      - name: Refresh box scores and projections
+        run: python3 pull_stats.py --out sleeper_history --seasons 2023 2024 2025 2026  
       - name: Verify the data before anything uses it
         run: python3 verify_claims.py --data sleeper_history
 

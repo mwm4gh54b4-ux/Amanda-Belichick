@@ -1,0 +1,73 @@
+name: Build a recap
+
+# Run by hand from the Actions tab. Give it a season and a week and it builds
+# the fact pack, re-verifies every number in it against the Sleeper data, pulls
+# outside coverage, and renders the page. A failure in the verify step stops the
+# job before anything is committed.
+#
+# Not on a schedule yet. During the season this becomes the Tuesday tail, but
+# recap_data.py exits non-zero when a season has no scored matchups, so putting
+# it on a schedule before week 1 would only turn Tuesday red for a month.
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: 'Season, for example 2025'
+        required: true
+        default: '2025'
+      week:
+        description: 'Week number, 1 to 14'
+        required: true
+        default: '9'
+
+permissions:
+  contents: write
+
+jobs:
+  recap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build the fact pack
+        run: |
+          python3 recap_data.py \
+            --data sleeper_history \
+            --season "${{ github.event.inputs.season }}" \
+            --week "${{ github.event.inputs.week }}" \
+            --snapshots snapshots \
+            --out recaps
+
+      # The gate. Re-derives every number in every pack straight from the
+      # Sleeper data and fails the job if one of them does not hold. Nothing
+      # downstream runs if this goes red, which is the entire point of it.
+      - name: Re-derive every number in it
+        run: python3 verify_recap.py --data sleeper_history --all recaps
+
+      # External coverage, quarantined. This step deliberately does NOT fail the
+      # job when a feed is dead. A broken podcast feed is not a reason to
+      # withhold a recap, unlike a broken number. Read its status table in the
+      # log to see which feeds resolved and drop the ones that did not.
+      - name: Pull outside coverage
+        run: python3 pull_media.py --out media --days 8
+        continue-on-error: true
+
+      - name: Render the page
+        run: |
+          python3 render.py \
+            --all recaps \
+            --prose-dir prose \
+            --media media/latest.json \
+            --out site
+
+      - name: Commit
+        run: |
+          git config user.name "Amanda Belichick"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add recaps/ site/ media/
+          git diff --staged --quiet || git commit -m "Recap ${{ github.event.inputs.season }} week ${{ github.event.inputs.week }}"
+          git push

@@ -1,0 +1,45 @@
+name: Build a recap
+
+# Run by hand from the Actions tab. Give it a season and a week and it builds
+# the fact pack, re-verifies every number in it against the Sleeper data, and
+# renders the page. Any failure stops it before anything is committed.
+#
+# Not on a schedule yet. During the season this becomes the Tuesday tail, but
+# recap_data.py exits non-zero when a season has no scored matchups, so
+# scheduling it before week 1 would only turn Tuesday red for a month.
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: 'Season, for example 2025'
+        required: true
+        default: '2025'
+      week:
+        description: 'Week number, 1 to 14'
+        required: true
+        default: '9'
+
+permissions:
+  contents: write
+
+jobs:
+  recap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build the fact pack
+        run: |
+          python3 recap_data.py \
+            --data sleeper_history \
+            --season "${{ github.event.inputs.season }}" \
+            --week "${{ github.event.inputs.week }}" \
+            --snapshots snapshots \
+            --out recaps
+
+      - name: Re-derive every number in it
+        run: |                                                                                                                     1,1           Top

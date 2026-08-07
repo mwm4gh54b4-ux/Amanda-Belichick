@@ -19,7 +19,8 @@ jobs:
 
       - name: Pull every season from Sleeper
         run: python3 pull.py
-
+      - name: Refresh the player file
+        run: python3 pull_players.py --out sleeper_history
       - name: Verify the data before anything uses it
         run: python3 verify_claims.py --data sleeper_history
 

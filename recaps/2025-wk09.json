@@ -1,0 +1,1886 @@
+{
+  "season": "2025",
+  "week": 9,
+  "generated_utc": "2026-08-07T01:39:16+00:00",
+  "prelock_snapshot": false,
+  "box_scores": true,
+  "theme": {
+    "week": 9,
+    "name": "Gronk Week",
+    "rule": "Starting TE closest to 69 receiving yards",
+    "computable": true,
+    "payout_usd": 35,
+    "payout_basis": "constitution section 4, $35 per week for weeks 1-14",
+    "winner": "goatnasty",
+    "value": 68.0,
+    "unit": "receiving yards",
+    "player": "Oronde Gadsden",
+    "distance_from_69": 1.0,
+    "basis": "starting TE rec_yd closest to 69, Sleeper stats feed"
+  },
+  "matchups": [
+    {
+      "matchup_id": 4,
+      "winner": "cj21k",
+      "loser": "goatnasty",
+      "winner_points": 169.84,
+      "loser_points": 111.0,
+      "margin": 58.84,
+      "basis": "matchups feed",
+      "performances": {
+        "cj21k": [
+          {
+            "player": "Drake London",
+            "position": "WR",
+            "points": 37.8,
+            "own_average": 14.48,
+            "vs_own_average": 23.32,
+            "stat_line": "9 of 14 tgt, 118 rec yds, 3 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 30.5,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Matthew Stafford",
+            "position": "QB",
+            "points": 26.84,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "24 of 32, 281 pass yds, 4 TD; 4 car, -4 rush yds",
+            "replacement_level": 12.12,
+            "vs_replacement": 14.72,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Baltimore Ravens",
+            "position": "DEF",
+            "points": 17.0,
+            "own_average": 3.33,
+            "vs_own_average": 13.67,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 15.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Christian McCaffrey",
+            "position": "RB",
+            "points": 36.8,
+            "own_average": 24.49,
+            "vs_own_average": 12.31,
+            "stat_line": "28 car, 106 rush yds, 1 TD; 5 of 6 tgt, 67 rec yds, 1 TD",
+            "replacement_level": 6.1,
+            "vs_replacement": 30.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jaylen Warren",
+            "position": "RB",
+            "points": 16.4,
+            "own_average": 14.88,
+            "vs_own_average": 1.52,
+            "stat_line": "16 car, 31 rush yds, 2 TD; 2 of 2 tgt, -2 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 10.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Cameron Dicker",
+            "position": "K",
+            "points": 11.0,
+            "own_average": 9.75,
+            "vs_own_average": 1.25,
+            "stat_line": "2 of 2 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 8.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Chris Olave",
+            "position": "WR",
+            "points": 8.2,
+            "own_average": 12.69,
+            "vs_own_average": -4.49,
+            "stat_line": "3 of 4 tgt, 57 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 0.9,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "George Kittle",
+            "position": "TE",
+            "points": 5.9,
+            "own_average": 12.15,
+            "vs_own_average": -6.25,
+            "stat_line": "1 car, -3 rush yds; 4 of 4 tgt, 32 rec yds",
+            "replacement_level": 5.9,
+            "vs_replacement": 0.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Tyler Warren",
+            "position": "TE",
+            "points": 5.6,
+            "own_average": 12.98,
+            "vs_own_average": -7.38,
+            "stat_line": "5 of 7 tgt, 26 rec yds",
+            "replacement_level": 5.9,
+            "vs_replacement": -0.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Rome Odunze",
+            "position": "WR",
+            "points": 0.0,
+            "own_average": 15.11,
+            "vs_own_average": -15.11,
+            "stat_line": "0 of 3 tgt, 0 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": -7.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "position": "RB",
+            "points": 4.3,
+            "own_average": 20.36,
+            "vs_own_average": -16.06,
+            "stat_line": "9 car, 25 rush yds; 3 of 3 tgt, 3 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": -1.8,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ],
+        "goatnasty": [
+          {
+            "player": "Kareem Hunt",
+            "position": "RB",
+            "points": 13.0,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "11 car, 49 rush yds, 1 TD; 1 of 2 tgt, 6 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 6.9,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Oronde Gadsden",
+            "position": "TE",
+            "points": 10.3,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "5 of 5 tgt, 68 rec yds",
+            "replacement_level": 5.9,
+            "vs_replacement": 4.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Derrick Henry",
+            "position": "RB",
+            "points": 16.1,
+            "own_average": 14.91,
+            "vs_own_average": 1.19,
+            "stat_line": "19 car, 119 rush yds; 1 of 1 tgt, 2 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 10.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Stefon Diggs",
+            "position": "WR",
+            "points": 11.8,
+            "own_average": 10.88,
+            "vs_own_average": 0.92,
+            "stat_line": "3 of 4 tgt, 38 rec yds, 1 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 4.5,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Travis Kelce",
+            "position": "TE",
+            "points": 12.1,
+            "own_average": 11.86,
+            "vs_own_average": 0.24,
+            "stat_line": "4 of 5 tgt, 66 rec yds",
+            "replacement_level": 5.9,
+            "vs_replacement": 6.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jake Bates",
+            "position": "K",
+            "points": 6.0,
+            "own_average": 7.71,
+            "vs_own_average": -1.71,
+            "stat_line": "1 of 2 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 3.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Deebo Samuel",
+            "position": "WR",
+            "points": 7.4,
+            "own_average": 12.24,
+            "vs_own_average": -4.84,
+            "stat_line": "1 car, 3 rush yds; 5 of 6 tgt, 41 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 0.1,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Dak Prescott",
+            "position": "QB",
+            "points": 15.9,
+            "own_average": 20.75,
+            "vs_own_average": -4.85,
+            "stat_line": "24 of 39, 250 pass yds, 1 TD, 1 INT; 4 car, 34 rush yds",
+            "replacement_level": 12.12,
+            "vs_replacement": 3.78,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Detroit Lions",
+            "position": "DEF",
+            "points": 7.0,
+            "own_average": 13.67,
+            "vs_own_average": -6.67,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 5.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Javonte Williams",
+            "position": "RB",
+            "points": 9.8,
+            "own_average": 19.39,
+            "vs_own_average": -9.59,
+            "stat_line": "15 car, 83 rush yds; 1 of 1 tgt, 0 rec yds; 1 lost fumble",
+            "replacement_level": 6.1,
+            "vs_replacement": 3.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "DK Metcalf",
+            "position": "WR",
+            "points": 1.6,
+            "own_average": 14.09,
+            "vs_own_average": -12.49,
+            "stat_line": "2 of 4 tgt, 6 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": -5.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ]
+      }
+    },
+    {
+      "matchup_id": 1,
+      "winner": "wiggitywakes",
+      "loser": "mcryns14",
+      "winner_points": 162.62,
+      "loser_points": 147.5,
+      "margin": 15.12,
+      "basis": "matchups feed",
+      "performances": {
+        "wiggitywakes": [
+          {
+            "player": "Brock Bowers",
+            "position": "TE",
+            "points": 40.3,
+            "own_average": 10.0,
+            "vs_own_average": 30.3,
+            "stat_line": "1 car, 6 rush yds; 12 of 13 tgt, 127 rec yds, 3 TD",
+            "replacement_level": 5.9,
+            "vs_replacement": 34.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Kyle Monangai",
+            "position": "RB",
+            "points": 27.3,
+            "own_average": 2.95,
+            "vs_own_average": 24.35,
+            "stat_line": "26 car, 176 rush yds; 3 of 5 tgt, 22 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 21.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "position": "RB",
+            "points": 12.7,
+            "own_average": 6.59,
+            "vs_own_average": 6.11,
+            "stat_line": "14 car, 55 rush yds; 4 of 6 tgt, 32 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 6.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Harrison Butker",
+            "position": "K",
+            "points": 8.0,
+            "own_average": 7.38,
+            "vs_own_average": 0.62,
+            "stat_line": "2 of 2 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 5.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "David Montgomery",
+            "position": "RB",
+            "points": 11.5,
+            "own_average": 12.82,
+            "vs_own_average": -1.32,
+            "stat_line": "11 car, 40 rush yds, 1 TD; 2 of 4 tgt, 10 rec yds; 1 lost fumble",
+            "replacement_level": 6.1,
+            "vs_replacement": 5.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Brian Thomas",
+            "position": "WR",
+            "points": 8.0,
+            "own_average": 10.3,
+            "vs_own_average": -2.3,
+            "stat_line": "3 of 5 tgt, 55 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 0.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Rashee Rice",
+            "position": "WR",
+            "points": 19.1,
+            "own_average": 21.85,
+            "vs_own_average": -2.75,
+            "stat_line": "2 car, 6 rush yds, 1 TD; 4 of 7 tgt, 80 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 11.8,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Indianapolis Colts",
+            "position": "DEF",
+            "points": 6.0,
+            "own_average": 9.33,
+            "vs_own_average": -3.33,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 4.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jayden Daniels",
+            "position": "QB",
+            "points": 15.72,
+            "own_average": 20.27,
+            "vs_own_average": -4.55,
+            "stat_line": "16 of 22, 153 pass yds, 1 INT; 10 car, 51 rush yds, 1 TD",
+            "replacement_level": 12.12,
+            "vs_replacement": 3.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "J.K. Dobbins",
+            "position": "RB",
+            "points": 7.9,
+            "own_average": 14.07,
+            "vs_own_average": -6.17,
+            "stat_line": "15 car, 61 rush yds; 1 of 1 tgt, -2 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 1.8,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Keenan Allen",
+            "position": "WR",
+            "points": 6.1,
+            "own_average": 13.8,
+            "vs_own_average": -7.7,
+            "stat_line": "2 of 5 tgt, 41 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": -1.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ],
+        "mcryns14": [
+          {
+            "player": "Sam Darnold",
+            "position": "QB",
+            "points": 30.2,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "21 of 24, 330 pass yds, 4 TD, 1 INT",
+            "replacement_level": 12.12,
+            "vs_replacement": 18.08,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Parker Washington",
+            "position": "WR",
+            "points": 15.0,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "8 of 9 tgt, 90 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 7.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Aaron Jones",
+            "position": "RB",
+            "points": 13.3,
+            "own_average": 8.75,
+            "vs_own_average": 4.55,
+            "stat_line": "9 car, 78 rush yds; 2 of 2 tgt, 20 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 7.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jacksonville Jaguars",
+            "position": "DEF",
+            "points": 3.0,
+            "own_average": 1.67,
+            "vs_own_average": 1.33,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 1.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jaylen Waddle",
+            "position": "WR",
+            "points": 13.2,
+            "own_average": 13.03,
+            "vs_own_average": 0.17,
+            "stat_line": "6 of 9 tgt, 82 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 5.9,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Chris Boswell",
+            "position": "K",
+            "points": 10.0,
+            "own_average": 10.33,
+            "vs_own_average": -0.33,
+            "stat_line": "2 of 2 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 7.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Zach Ertz",
+            "position": "TE",
+            "points": 7.6,
+            "own_average": 8.85,
+            "vs_own_average": -1.25,
+            "stat_line": "4 of 4 tgt, 46 rec yds",
+            "replacement_level": 5.9,
+            "vs_replacement": 1.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Ladd McConkey",
+            "position": "WR",
+            "points": 8.6,
+            "own_average": 12.16,
+            "vs_own_average": -3.56,
+            "stat_line": "4 of 6 tgt, 56 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 1.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "George Pickens",
+            "position": "WR",
+            "points": 13.9,
+            "own_average": 17.88,
+            "vs_own_average": -3.97,
+            "stat_line": "6 of 9 tgt, 79 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 6.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Amon-Ra St. Brown",
+            "position": "WR",
+            "points": 15.2,
+            "own_average": 19.46,
+            "vs_own_average": -4.26,
+            "stat_line": "9 of 13 tgt, 97 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 7.9,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "James Cook",
+            "position": "RB",
+            "points": 17.5,
+            "own_average": 22.1,
+            "vs_own_average": -4.6,
+            "stat_line": "27 car, 114 rush yds; 1 of 1 tgt, 11 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 11.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ]
+      }
+    },
+    {
+      "matchup_id": 5,
+      "winner": "natergater24",
+      "loser": "gilbertb12",
+      "winner_points": 136.5,
+      "loser_points": 132.26,
+      "margin": 4.24,
+      "basis": "matchups feed",
+      "performances": {
+        "natergater24": [
+          {
+            "player": "Mark Andrews",
+            "position": "TE",
+            "points": 16.6,
+            "own_average": 3.3,
+            "vs_own_average": 13.3,
+            "stat_line": "2 car, 4 rush yds; 2 of 3 tgt, 22 rec yds, 2 TD",
+            "replacement_level": 5.9,
+            "vs_replacement": 10.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Michael Badgley",
+            "position": "K",
+            "points": 12.0,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "2 of 2 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 9.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Ashton Jeanty",
+            "position": "RB",
+            "points": 19.9,
+            "own_average": 14.3,
+            "vs_own_average": 5.6,
+            "stat_line": "13 car, 42 rush yds; 5 of 5 tgt, 47 rec yds, 1 TD",
+            "replacement_level": 6.1,
+            "vs_replacement": 13.8,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Nico Collins",
+            "position": "WR",
+            "points": 13.5,
+            "own_average": 11.53,
+            "vs_own_average": 1.97,
+            "stat_line": "7 of 11 tgt, 75 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 6.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "position": "WR",
+            "points": 9.6,
+            "own_average": 8.82,
+            "vs_own_average": 0.78,
+            "stat_line": "9 of 11 tgt, 46 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 2.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "position": "WR",
+            "points": 22.0,
+            "own_average": 21.57,
+            "vs_own_average": 0.43,
+            "stat_line": "1 car, 11 rush yds; 8 of 9 tgt, 129 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 14.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Tyrone Tracy",
+            "position": "RB",
+            "points": 6.7,
+            "own_average": 6.57,
+            "vs_own_average": 0.13,
+            "stat_line": "5 car, 18 rush yds; 3 of 4 tgt, 19 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 0.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Khalil Shakir",
+            "position": "WR",
+            "points": 9.3,
+            "own_average": 10.8,
+            "vs_own_average": -1.5,
+            "stat_line": "7 of 8 tgt, 43 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 2.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Los Angeles Rams",
+            "position": "DEF",
+            "points": 10.0,
+            "own_average": 12.0,
+            "vs_own_average": -2.0,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 8.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Cam Ward",
+            "position": "QB",
+            "points": 6.4,
+            "own_average": 8.58,
+            "vs_own_average": -2.18,
+            "stat_line": "12 of 21, 145 pass yds; 2 car, 6 rush yds",
+            "replacement_level": 12.12,
+            "vs_replacement": -5.72,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Patrick Mahomes",
+            "position": "QB",
+            "points": 10.5,
+            "own_average": 25.87,
+            "vs_own_average": -15.37,
+            "stat_line": "15 of 34, 250 pass yds, 1 INT; 1 car, 5 rush yds",
+            "replacement_level": 12.12,
+            "vs_replacement": -1.62,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ],
+        "gilbertb12": [
+          {
+            "player": "Sam LaPorta",
+            "position": "TE",
+            "points": 20.2,
+            "own_average": 9.63,
+            "vs_own_average": 10.57,
+            "stat_line": "6 of 8 tgt, 97 rec yds, 1 TD",
+            "replacement_level": 5.9,
+            "vs_replacement": 14.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jauan Jennings",
+            "position": "WR",
+            "points": 12.6,
+            "own_average": 4.75,
+            "vs_own_average": 7.85,
+            "stat_line": "4 of 5 tgt, 41 rec yds, 1 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 5.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Travis Etienne",
+            "position": "RB",
+            "points": 17.5,
+            "own_average": 14.06,
+            "vs_own_average": 3.44,
+            "stat_line": "22 car, 84 rush yds; 5 of 5 tgt, 31 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 11.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Lamar Jackson",
+            "position": "QB",
+            "points": 26.06,
+            "own_average": 24.46,
+            "vs_own_average": 1.6,
+            "stat_line": "18 of 23, 204 pass yds, 4 TD; 5 car, 14 rush yds",
+            "replacement_level": 12.12,
+            "vs_replacement": 13.94,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Rashid Shaheed",
+            "position": "WR",
+            "points": 10.8,
+            "own_average": 10.32,
+            "vs_own_average": 0.48,
+            "stat_line": "5 of 9 tgt, 68 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 3.5,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Justin Jefferson",
+            "position": "WR",
+            "points": 14.7,
+            "own_average": 14.3,
+            "vs_own_average": 0.4,
+            "stat_line": "6 of 9 tgt, 47 rec yds, 1 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 7.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "De'Von Achane",
+            "position": "RB",
+            "points": 16.1,
+            "own_average": 19.11,
+            "vs_own_average": -3.01,
+            "stat_line": "14 car, 67 rush yds; 6 of 10 tgt, 39 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 10.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Kenneth Walker",
+            "position": "RB",
+            "points": 8.6,
+            "own_average": 11.66,
+            "vs_own_average": -3.06,
+            "stat_line": "11 car, 42 rush yds; 2 of 2 tgt, 19 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 2.5,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "San Francisco 49ers",
+            "position": "DEF",
+            "points": 2.0,
+            "own_average": 6.29,
+            "vs_own_average": -4.29,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 0.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Brashard Smith",
+            "position": "RB",
+            "points": 0.7,
+            "own_average": 5.5,
+            "vs_own_average": -4.8,
+            "stat_line": "3 car, 7 rush yds; 0 of 1 tgt, 0 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": -5.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Matt Prater",
+            "position": "K",
+            "points": 3.0,
+            "own_average": 8.33,
+            "vs_own_average": -5.33,
+            "stat_line": "0 of 1 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 0.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ]
+      }
+    },
+    {
+      "matchup_id": 2,
+      "winner": "Denk0",
+      "loser": "aleksthebrun",
+      "winner_points": 147.66,
+      "loser_points": 143.62,
+      "margin": 4.04,
+      "basis": "matchups feed",
+      "performances": {
+        "Denk0": [
+          {
+            "player": "Marvin Harrison",
+            "position": "WR",
+            "points": 21.6,
+            "own_average": 10.09,
+            "vs_own_average": 11.51,
+            "stat_line": "7 of 10 tgt, 96 rec yds, 1 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 14.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Kyren Williams",
+            "position": "RB",
+            "points": 23.4,
+            "own_average": 16.54,
+            "vs_own_average": 6.86,
+            "stat_line": "25 car, 114 rush yds, 1 TD",
+            "replacement_level": 6.1,
+            "vs_replacement": 17.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Eddy Pineiro",
+            "position": "K",
+            "points": 12.0,
+            "own_average": 6.0,
+            "vs_own_average": 6.0,
+            "stat_line": "2 of 2 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 9.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Zonovan Knight",
+            "position": "RB",
+            "points": 8.2,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "9 car, 27 rush yds; 2 of 2 tgt, 20 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 2.1,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Trey McBride",
+            "position": "TE",
+            "points": 15.0,
+            "own_average": 14.23,
+            "vs_own_average": 0.77,
+            "stat_line": "5 of 9 tgt, 55 rec yds, 1 TD",
+            "replacement_level": 5.9,
+            "vs_replacement": 9.1,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "position": "WR",
+            "points": 18.1,
+            "own_average": 19.2,
+            "vs_own_average": -1.1,
+            "stat_line": "6 of 8 tgt, 111 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 10.8,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "CeeDee Lamb",
+            "position": "WR",
+            "points": 13.5,
+            "own_average": 17.82,
+            "vs_own_average": -4.32,
+            "stat_line": "7 of 12 tgt, 85 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 6.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Drake Maye",
+            "position": "QB",
+            "points": 17.36,
+            "own_average": 21.92,
+            "vs_own_average": -4.56,
+            "stat_line": "19 of 29, 259 pass yds, 2 TD, 1 INT; 8 car, 20 rush yds; 1 lost fumble",
+            "replacement_level": 12.12,
+            "vs_replacement": 5.24,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Denver Broncos",
+            "position": "DEF",
+            "points": 5.0,
+            "own_average": 9.67,
+            "vs_own_average": -4.67,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 3.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "points": 4.6,
+            "own_average": 10.34,
+            "vs_own_average": -5.74,
+            "stat_line": "12 car, 38 rush yds; 1 of 1 tgt, 3 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": -1.5,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jordan Addison",
+            "position": "WR",
+            "points": 8.9,
+            "own_average": 15.22,
+            "vs_own_average": -6.32,
+            "stat_line": "1 car, 16 rush yds; 2 of 4 tgt, 48 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 1.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ],
+        "aleksthebrun": [
+          {
+            "player": "Davante Adams",
+            "position": "WR",
+            "points": 22.0,
+            "own_average": 14.87,
+            "vs_own_average": 7.13,
+            "stat_line": "5 of 7 tgt, 60 rec yds, 2 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 14.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Cairo Santos",
+            "position": "K",
+            "points": 10.0,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "2 of 3 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 7.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jameson Williams",
+            "position": "WR",
+            "points": 15.6,
+            "own_average": 9.42,
+            "vs_own_average": 6.18,
+            "stat_line": "4 of 6 tgt, 66 rec yds, 1 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 8.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Michael Pittman",
+            "position": "WR",
+            "points": 20.0,
+            "own_average": 14.45,
+            "vs_own_average": 5.55,
+            "stat_line": "9 of 12 tgt, 115 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 12.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Los Angeles Chargers",
+            "position": "DEF",
+            "points": 6.0,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 4.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Romeo Doubs",
+            "position": "WR",
+            "points": 15.1,
+            "own_average": 12.68,
+            "vs_own_average": 2.42,
+            "stat_line": "7 of 10 tgt, 91 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 7.8,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Josh Jacobs",
+            "position": "RB",
+            "points": 20.5,
+            "own_average": 19.9,
+            "vs_own_average": 0.6,
+            "stat_line": "17 car, 87 rush yds, 1 TD; 4 of 5 tgt, 13 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 14.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Hunter Henry",
+            "position": "TE",
+            "points": 9.1,
+            "own_average": 9.0,
+            "vs_own_average": 0.1,
+            "stat_line": "4 of 6 tgt, 51 rec yds",
+            "replacement_level": 5.9,
+            "vs_replacement": 3.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Tetairoa McMillan",
+            "position": "WR",
+            "points": 8.1,
+            "own_average": 12.15,
+            "vs_own_average": -4.05,
+            "stat_line": "4 of 6 tgt, 46 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 0.8,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jordan Love",
+            "position": "QB",
+            "points": 9.02,
+            "own_average": 20.6,
+            "vs_own_average": -11.58,
+            "stat_line": "26 of 37, 273 pass yds, 1 INT; 1 car, 1 rush yds",
+            "replacement_level": 12.12,
+            "vs_replacement": -3.1,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Jonathan Taylor",
+            "position": "RB",
+            "points": 8.2,
+            "own_average": 28.95,
+            "vs_own_average": -20.75,
+            "stat_line": "14 car, 45 rush yds; 2 of 2 tgt, 12 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 2.1,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ]
+      }
+    },
+    {
+      "matchup_id": 3,
+      "winner": "GregoryOdensKnees",
+      "loser": "Naughtynun",
+      "winner_points": 140.36,
+      "loser_points": 137.02,
+      "margin": 3.34,
+      "basis": "matchups feed",
+      "performances": {
+        "GregoryOdensKnees": [
+          {
+            "player": "Jaxson Dart",
+            "position": "QB",
+            "points": 29.24,
+            "own_average": 16.27,
+            "vs_own_average": 12.97,
+            "stat_line": "24 of 33, 191 pass yds, 2 TD; 8 car, 56 rush yds, 1 TD",
+            "replacement_level": 12.12,
+            "vs_replacement": 17.12,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Dalton Kincaid",
+            "position": "TE",
+            "points": 21.6,
+            "own_average": 11.08,
+            "vs_own_average": 10.52,
+            "stat_line": "6 of 6 tgt, 101 rec yds, 1 TD",
+            "replacement_level": 5.9,
+            "vs_replacement": 15.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Josh Allen",
+            "position": "QB",
+            "points": 29.82,
+            "own_average": 23.64,
+            "vs_own_average": 6.18,
+            "stat_line": "23 of 26, 273 pass yds, 1 TD; 6 car, 19 rush yds, 2 TD",
+            "replacement_level": 12.12,
+            "vs_replacement": 17.7,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Josh Downs",
+            "position": "WR",
+            "points": 14.7,
+            "own_average": 8.59,
+            "vs_own_average": 6.11,
+            "stat_line": "6 of 9 tgt, 57 rec yds, 1 TD; 1 lost fumble",
+            "replacement_level": 7.3,
+            "vs_replacement": 7.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "RJ Harvey",
+            "position": "RB",
+            "points": 14.6,
+            "own_average": 9.25,
+            "vs_own_average": 5.35,
+            "stat_line": "2 car, 5 rush yds; 5 of 5 tgt, 51 rec yds, 1 TD",
+            "replacement_level": 6.1,
+            "vs_replacement": 8.5,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Green Bay Packers",
+            "position": "DEF",
+            "points": 5.0,
+            "own_average": 5.0,
+            "vs_own_average": 0.0,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 3.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Zay Flowers",
+            "position": "WR",
+            "points": 9.9,
+            "own_average": 12.3,
+            "vs_own_average": -2.4,
+            "stat_line": "5 of 5 tgt, 64 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": 2.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Tyler Loop",
+            "position": "K",
+            "points": 4.0,
+            "own_average": 8.0,
+            "vs_own_average": -4.0,
+            "stat_line": null,
+            "replacement_level": 3.0,
+            "vs_replacement": 1.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Zach Charbonnet",
+            "position": "RB",
+            "points": 6.1,
+            "own_average": 10.35,
+            "vs_own_average": -4.25,
+            "stat_line": "8 car, 25 rush yds; 1 of 1 tgt, 21 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 0.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Kendrick Bourne",
+            "position": "WR",
+            "points": 5.4,
+            "own_average": 9.83,
+            "vs_own_average": -4.43,
+            "stat_line": "2 of 2 tgt, 34 rec yds",
+            "replacement_level": 7.3,
+            "vs_replacement": -1.9,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Travis Hunter",
+            "position": "WR",
+            "points": 0.0,
+            "own_average": 8.04,
+            "vs_own_average": -8.04,
+            "stat_line": null,
+            "replacement_level": 7.3,
+            "vs_replacement": -7.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ],
+        "Naughtynun": [
+          {
+            "player": "Tee Higgins",
+            "position": "WR",
+            "points": 32.6,
+            "own_average": 9.94,
+            "vs_own_average": 22.66,
+            "stat_line": "7 of 9 tgt, 121 rec yds, 2 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 25.3,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Chase Brown",
+            "position": "RB",
+            "points": 18.7,
+            "own_average": 11.93,
+            "vs_own_average": 6.77,
+            "stat_line": "11 car, 37 rush yds; 8 of 14 tgt, 75 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 12.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Puka Nacua",
+            "position": "WR",
+            "points": 20.3,
+            "own_average": 21.72,
+            "vs_own_average": -1.42,
+            "stat_line": "1 car, 3 rush yds; 7 of 8 tgt, 95 rec yds, 1 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 13.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Daniel Jones",
+            "position": "QB",
+            "points": 17.58,
+            "own_average": 19.94,
+            "vs_own_average": -2.36,
+            "stat_line": "31 of 50, 342 pass yds, 1 TD, 3 INT; 3 car, 4 rush yds, 1 TD; 2 lost fumble",
+            "replacement_level": 12.12,
+            "vs_replacement": 5.46,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Tyler Shough",
+            "position": "QB",
+            "points": 9.24,
+            "own_average": null,
+            "vs_own_average": null,
+            "stat_line": "15 of 24, 176 pass yds, 1 TD, 1 INT; 1 car, 2 rush yds",
+            "replacement_level": 12.12,
+            "vs_replacement": -2.88,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Courtland Sutton",
+            "position": "WR",
+            "points": 9.5,
+            "own_average": 13.08,
+            "vs_own_average": -3.58,
+            "stat_line": "1 of 6 tgt, 30 rec yds, 1 TD",
+            "replacement_level": 7.3,
+            "vs_replacement": 2.2,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Bijan Robinson",
+            "position": "RB",
+            "points": 16.1,
+            "own_average": 22.39,
+            "vs_own_average": -6.29,
+            "stat_line": "12 car, 46 rush yds; 8 of 10 tgt, 50 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": 10.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Brandon Aubrey",
+            "position": "K",
+            "points": 4.0,
+            "own_average": 10.88,
+            "vs_own_average": -6.88,
+            "stat_line": "1 of 2 FG",
+            "replacement_level": 3.0,
+            "vs_replacement": 1.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "New England Patriots",
+            "position": "DEF",
+            "points": 2.0,
+            "own_average": 11.33,
+            "vs_own_average": -9.33,
+            "stat_line": null,
+            "replacement_level": 2.0,
+            "vs_replacement": 0.0,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Tucker Kraft",
+            "position": "TE",
+            "points": 3.5,
+            "own_average": 15.39,
+            "vs_own_average": -11.89,
+            "stat_line": "2 of 3 tgt, 20 rec yds",
+            "replacement_level": 5.9,
+            "vs_replacement": -2.4,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          },
+          {
+            "player": "Kimani Vidal",
+            "position": "RB",
+            "points": 3.5,
+            "own_average": 18.83,
+            "vs_own_average": -15.33,
+            "stat_line": "12 car, 30 rush yds; 0 of 1 tgt, 0 rec yds",
+            "replacement_level": 6.1,
+            "vs_replacement": -2.6,
+            "basis": "started players only; own average excludes weeks the player scored nothing, which in this feed also means bye, inactive or unrostered"
+          }
+        ]
+      }
+    }
+  ],
+  "start_sit": [
+    {
+      "matchup_id": 4,
+      "owner": "goatnasty",
+      "actual": 111.0,
+      "optimal": 146.5,
+      "left_on_bench": 35.5,
+      "illegal_lineup": false,
+      "opponent": "cj21k",
+      "opponent_points": 169.84,
+      "result": "L",
+      "flipped": false,
+      "should_have_started": [
+        {
+          "player": "Caleb Williams",
+          "position": "QB",
+          "points": 39.2
+        },
+        {
+          "player": "Quentin Johnston",
+          "position": "WR",
+          "points": 13.8
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 5,
+      "owner": "natergater24",
+      "actual": 136.5,
+      "optimal": 162.2,
+      "left_on_bench": 25.7,
+      "illegal_lineup": false,
+      "opponent": "gilbertb12",
+      "opponent_points": 132.26,
+      "result": "W",
+      "flipped": false,
+      "should_have_started": [
+        {
+          "player": "Rico Dowdle",
+          "position": "RB",
+          "points": 32.1
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 2,
+      "owner": "Denk0",
+      "actual": 147.66,
+      "optimal": 161.74,
+      "left_on_bench": 14.08,
+      "illegal_lineup": false,
+      "opponent": "aleksthebrun",
+      "opponent_points": 143.62,
+      "result": "W",
+      "flipped": false,
+      "should_have_started": [
+        {
+          "player": "DJ Moore",
+          "position": "WR",
+          "points": 22.98
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 2,
+      "owner": "aleksthebrun",
+      "actual": 143.62,
+      "optimal": 153.62,
+      "left_on_bench": 10.0,
+      "illegal_lineup": false,
+      "opponent": "Denk0",
+      "opponent_points": 147.66,
+      "result": "L",
+      "flipped": true,
+      "should_have_started": [
+        {
+          "player": "Bo Nix",
+          "position": "QB",
+          "points": 19.02
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 4,
+      "owner": "cj21k",
+      "actual": 169.84,
+      "optimal": 179.64,
+      "left_on_bench": 9.8,
+      "illegal_lineup": false,
+      "opponent": "goatnasty",
+      "opponent_points": 111.0,
+      "result": "W",
+      "flipped": false,
+      "should_have_started": [
+        {
+          "player": "Tony Pollard",
+          "position": "RB",
+          "points": 9.3
+        },
+        {
+          "player": "Jakobi Meyers",
+          "position": "WR",
+          "points": 4.8
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 5,
+      "owner": "gilbertb12",
+      "actual": 132.26,
+      "optimal": 136.4,
+      "left_on_bench": 4.14,
+      "illegal_lineup": false,
+      "opponent": "natergater24",
+      "opponent_points": 136.5,
+      "result": "L",
+      "flipped": false,
+      "should_have_started": [
+        {
+          "player": "Justin Herbert",
+          "position": "QB",
+          "points": 30.2
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 3,
+      "owner": "Naughtynun",
+      "actual": 137.02,
+      "optimal": 140.52,
+      "left_on_bench": 3.5,
+      "illegal_lineup": false,
+      "opponent": "GregoryOdensKnees",
+      "opponent_points": 140.36,
+      "result": "L",
+      "flipped": true,
+      "should_have_started": [
+        {
+          "player": "Chimere Dike",
+          "position": "WR",
+          "points": 7.0
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 1,
+      "owner": "wiggitywakes",
+      "actual": 162.62,
+      "optimal": 163.82,
+      "left_on_bench": 1.2,
+      "illegal_lineup": false,
+      "opponent": "mcryns14",
+      "opponent_points": 147.5,
+      "result": "W",
+      "flipped": false,
+      "should_have_started": [
+        {
+          "player": "Troy Franklin",
+          "position": "WR",
+          "points": 7.3
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 1,
+      "owner": "mcryns14",
+      "actual": 147.5,
+      "optimal": 147.5,
+      "left_on_bench": 0.0,
+      "illegal_lineup": false,
+      "opponent": "wiggitywakes",
+      "opponent_points": 162.62,
+      "result": "L",
+      "flipped": false,
+      "should_have_started": [],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    },
+    {
+      "matchup_id": 3,
+      "owner": "GregoryOdensKnees",
+      "actual": 140.36,
+      "optimal": 140.36,
+      "left_on_bench": 0.0,
+      "illegal_lineup": false,
+      "opponent": "Naughtynun",
+      "opponent_points": 137.02,
+      "result": "W",
+      "flipped": false,
+      "should_have_started": [
+        {
+          "player": "Bucky Irving",
+          "position": "RB",
+          "points": 0.0
+        }
+      ],
+      "prelock_available": false,
+      "basis": "optimal legal lineup vs lineup as set; NO pre-lock snapshot, graded on outcome only"
+    }
+  ],
+  "transactions": [
+    {
+      "owner": "Denk0",
+      "type": "trade",
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "points_that_week": 32.1,
+      "replacement_level": 6.1,
+      "above_replacement": 26.0,
+      "faab_spent": null,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "mcryns14",
+      "type": "waiver",
+      "player": "Sam Darnold",
+      "position": "QB",
+      "points_that_week": 30.2,
+      "replacement_level": 12.12,
+      "above_replacement": 18.08,
+      "faab_spent": 1,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "natergater24",
+      "type": "trade",
+      "player": "Kyren Williams",
+      "position": "RB",
+      "points_that_week": 23.4,
+      "replacement_level": 6.1,
+      "above_replacement": 17.3,
+      "faab_spent": null,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "cj21k",
+      "type": "waiver",
+      "player": "Baltimore Ravens",
+      "position": "DEF",
+      "points_that_week": 17.0,
+      "replacement_level": 2.0,
+      "above_replacement": 15.0,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "mcryns14",
+      "type": "waiver",
+      "player": "Parker Washington",
+      "position": "WR",
+      "points_that_week": 15.0,
+      "replacement_level": 7.3,
+      "above_replacement": 7.7,
+      "faab_spent": 1,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "GregoryOdensKnees",
+      "type": "waiver",
+      "player": "Josh Downs",
+      "position": "WR",
+      "points_that_week": 14.7,
+      "replacement_level": 7.3,
+      "above_replacement": 7.4,
+      "faab_spent": 3,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "aleksthebrun",
+      "type": "waiver",
+      "player": "Cairo Santos",
+      "position": "K",
+      "points_that_week": 10.0,
+      "replacement_level": 3.0,
+      "above_replacement": 7.0,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "goatnasty",
+      "type": "waiver",
+      "player": "Kareem Hunt",
+      "position": "RB",
+      "points_that_week": 13.0,
+      "replacement_level": 6.1,
+      "above_replacement": 6.9,
+      "faab_spent": 2,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "natergater24",
+      "type": "trade",
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "points_that_week": 13.5,
+      "replacement_level": 7.3,
+      "above_replacement": 6.2,
+      "faab_spent": null,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "Denk0",
+      "type": "trade",
+      "player": "Nico Collins",
+      "position": "WR",
+      "points_that_week": 13.5,
+      "replacement_level": 7.3,
+      "above_replacement": 6.2,
+      "faab_spent": null,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "gilbertb12",
+      "type": "waiver",
+      "player": "Jauan Jennings",
+      "position": "WR",
+      "points_that_week": 12.6,
+      "replacement_level": 7.3,
+      "above_replacement": 5.3,
+      "faab_spent": 20,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "wiggitywakes",
+      "type": "waiver",
+      "player": "Indianapolis Colts",
+      "position": "DEF",
+      "points_that_week": 6.0,
+      "replacement_level": 2.0,
+      "above_replacement": 4.0,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "aleksthebrun",
+      "type": "waiver",
+      "player": "Los Angeles Chargers",
+      "position": "DEF",
+      "points_that_week": 6.0,
+      "replacement_level": 2.0,
+      "above_replacement": 4.0,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "cj21k",
+      "type": "waiver",
+      "player": "Tony Pollard",
+      "position": "RB",
+      "points_that_week": 9.3,
+      "replacement_level": 6.1,
+      "above_replacement": 3.2,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "goatnasty",
+      "type": "waiver",
+      "player": "Jake Bates",
+      "position": "K",
+      "points_that_week": 6.0,
+      "replacement_level": 3.0,
+      "above_replacement": 3.0,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "Denk0",
+      "type": "waiver",
+      "player": "Zonovan Knight",
+      "position": "RB",
+      "points_that_week": 8.2,
+      "replacement_level": 6.1,
+      "above_replacement": 2.1,
+      "faab_spent": 10,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "mcryns14",
+      "type": "waiver",
+      "player": "Jacksonville Jaguars",
+      "position": "DEF",
+      "points_that_week": 3.0,
+      "replacement_level": 2.0,
+      "above_replacement": 1.0,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "goatnasty",
+      "type": "waiver",
+      "player": "Chase McLaughlin",
+      "position": "K",
+      "points_that_week": 0.0,
+      "replacement_level": 3.0,
+      "above_replacement": -3.0,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "mcryns14",
+      "type": "waiver",
+      "player": "Ollie Gordon",
+      "position": "RB",
+      "points_that_week": 1.4,
+      "replacement_level": 6.1,
+      "above_replacement": -4.7,
+      "faab_spent": 1,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    },
+    {
+      "owner": "Denk0",
+      "type": "waiver",
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "points_that_week": 0.0,
+      "replacement_level": 6.1,
+      "above_replacement": -6.1,
+      "faab_spent": 0,
+      "basis": "week transactions, scored against started-player replacement level for the same week"
+    }
+  ],
+  "standings": [
+    {
+      "owner": "cj21k",
+      "wins": 8,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 1431.86,
+      "points_against": 1160.94,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "aleksthebrun",
+      "wins": 6,
+      "losses": 3,
+      "ties": 0,
+      "points_for": 1317.12,
+      "points_against": 1206.34,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "Denk0",
+      "wins": 6,
+      "losses": 3,
+      "ties": 0,
+      "points_for": 1283.14,
+      "points_against": 1239.82,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "Naughtynun",
+      "wins": 5,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1375.32,
+      "points_against": 1275.44,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "natergater24",
+      "wins": 5,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1309.62,
+      "points_against": 1271.46,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "mcryns14",
+      "wins": 4,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1330.74,
+      "points_against": 1270.3,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "goatnasty",
+      "wins": 4,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1220.6,
+      "points_against": 1352.4,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "GregoryOdensKnees",
+      "wins": 4,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1205.98,
+      "points_against": 1343.08,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "wiggitywakes",
+      "wins": 2,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1145.14,
+      "points_against": 1320.78,
+      "basis": "matchups weeks 1 to 9"
+    },
+    {
+      "owner": "gilbertb12",
+      "wins": 1,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1141.5,
+      "points_against": 1320.46,
+      "basis": "matchups weeks 1 to 9"
+    }
+  ],
+  "sacko_race": {
+    "contenders": [
+      {
+        "owner": "GregoryOdensKnees",
+        "wins": 4,
+        "losses": 5,
+        "ties": 0,
+        "points_for": 1205.98,
+        "points_against": 1343.08,
+        "basis": "matchups weeks 1 to 9"
+      },
+      {
+        "owner": "wiggitywakes",
+        "wins": 2,
+        "losses": 7,
+        "ties": 0,
+        "points_for": 1145.14,
+        "points_against": 1320.78,
+        "basis": "matchups weeks 1 to 9"
+      },
+      {
+        "owner": "gilbertb12",
+        "wins": 1,
+        "losses": 8,
+        "ties": 0,
+        "points_for": 1141.5,
+        "points_against": 1320.46,
+        "basis": "matchups weeks 1 to 9"
+      }
+    ],
+    "current_holder": "gilbertb12",
+    "tie": [],
+    "note": "No sacko tiebreaker exists in the constitution. If this is level at the end of the season it is a commissioner ruling, not a lookup.",
+    "basis": "standings through this week"
+  },
+  "memory": {
+    "kind": "margin_in_context",
+    "this_week_margin": 58.84,
+    "winner": "cj21k",
+    "loser": "goatnasty",
+    "bigger_margins_on_record": 19,
+    "record_margin": {
+      "margin": 112.26,
+      "season": "2025",
+      "week": 6
+    },
+    "basis": "contested regular season games only, all completed seasons in the pull; playoff and consolation weeks and any game with an incomplete lineup are excluded. Note the pull starts at 2023 and the league started in 2016."
+  }
+}

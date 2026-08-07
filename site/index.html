@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Amanda Belichick</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=JetBrains+Mono:wght@600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F6F5F1; --ink:#0D0E11; --muted:#454951; --rule:#C7C5BC;
+  --stamp:#A50E17; --surface:#EFEEE8;
+}
+/* A real dark palette rather than an auto-inverted light one. Browser
+   inversion flattens the whole page toward the same grey and destroys the
+   contrast the light scheme was tuned for. Measured against the dark
+   background: text 15.3:1, secondary 8.2:1, stamp 7.4:1. */
+@media (prefers-color-scheme:dark){
+  :root{
+    --paper:#15171C; --ink:#ECEDE9; --muted:#AAB0B9; --rule:#343842;
+    --stamp:#FF8078; --surface:#1E2128;
+  }
+  .redact{background:var(--ink);color:var(--ink)}
+  .basis{background:#000;color:#ECEDE9;border:1px solid var(--rule)}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:"Source Serif 4",Georgia,serif;font-size:18px;line-height:1.6}
+.wrap{max-width:44rem;margin:0 auto;padding:1.75rem 1.15rem 5rem}
+
+header{border-top:6px solid var(--ink);padding-top:.7rem;margin-bottom:1.6rem}
+.org{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.68rem;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--muted);
+  display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+h1{font-family:"Archivo Black",Impact,sans-serif;font-weight:400;
+  font-size:clamp(2.6rem,12vw,4.4rem);line-height:.88;margin:.5rem 0 0;
+  letter-spacing:-.03em;text-transform:uppercase}
+.dek{font-size:.95rem;color:var(--muted);margin:.85rem 0 0;
+  border-left:3px solid var(--stamp);padding-left:.75rem}
+
+section{margin:2.6rem 0 0}
+h2{font-family:"JetBrains Mono",ui-monospace,monospace;font-weight:600;
+  font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;
+  margin:0 0 .85rem;padding-bottom:.4rem;border-bottom:2px solid var(--ink);
+  display:flex;justify-content:space-between;gap:.75rem}
+h2 span{color:var(--muted)}
+
+.item{background:var(--surface);padding:.75rem .9rem;margin:0 0 .55rem;
+  border-left:3px solid var(--rule)}
+.item.lead{border-left-color:var(--ink)}
+.item.bad{border-left-color:var(--stamp)}
+.who{font-family:"Archivo Black",Impact,sans-serif;font-size:1rem;
+  letter-spacing:-.01em;line-height:1.25;display:block}
+.line{font-size:.9rem;color:var(--muted);margin-top:.3rem;display:block}
+.tag{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.62rem;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--stamp);
+  display:block;margin-bottom:.3rem;font-weight:600}
+.tag.ok{color:var(--muted)}
+.narr{margin:.6rem 0 0;font-size:.96rem}
+.narr p{margin:0 0 .6rem}
+.narr p:last-child{margin-bottom:0}
+
+/* Redaction. Only where the rules require data nobody collects. */
+.redact{background:var(--ink);color:var(--ink);padding:.05rem .5rem;
+  user-select:none;letter-spacing:.05em}
+.why{font-size:.85rem;color:var(--muted);margin-top:.45rem}
+
+/* Signature: every figure carries the derivation that produced it. */
+.fact{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.9em;
+  font-weight:600;color:var(--ink);background:none;border:0;
+  border-bottom:2px solid var(--stamp);padding:0;cursor:help;position:relative}
+.fact:hover .basis,.fact:focus-visible .basis{opacity:1;visibility:visible}
+.fact:focus-visible{outline:2px solid var(--stamp);outline-offset:3px}
+.basis{opacity:0;visibility:hidden;transition:opacity .1s linear;
+  position:absolute;left:0;bottom:calc(100% + .4rem);z-index:9;
+  width:min(20rem,74vw);background:var(--ink);color:var(--paper);
+  font-family:"Source Serif 4",Georgia,serif;font-weight:400;font-size:.78rem;
+  line-height:1.45;padding:.5rem .6rem;text-align:left}
+
+footer{margin-top:3.5rem;border-top:2px solid var(--ink);padding-top:.8rem;
+  font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.68rem;
+  letter-spacing:.05em;color:var(--muted);line-height:1.8}
+.idx a{display:block;padding:.7rem 0;border-bottom:1px solid var(--rule);
+  color:var(--ink);text-decoration:none}
+.idx a:hover .who{color:var(--stamp)}
+.game{border-top:2px solid var(--ink);margin:2.4rem 0 0;padding-top:.55rem}
+.game h2{border-bottom:0;margin-bottom:.5rem}
+.score{font-family:"Archivo Black",Impact,sans-serif;font-size:1.35rem;
+  line-height:1.2;margin:.1rem 0 .5rem;letter-spacing:-.02em}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:.55rem}
+@media (max-width:33rem){.grid{grid-template-columns:1fr}}
+.col h3{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.64rem;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--muted);
+  margin:0 0 .35rem;font-weight:600}
+.perf{font-size:.87rem;margin:0 0 .22rem;display:block;color:var(--muted)}
+.perf b{font-family:"Source Serif 4",Georgia,serif;color:var(--ink);font-weight:600}
+.up b{border-bottom:2px solid var(--rule)}
+.down b{border-bottom:2px solid var(--stamp)}
+.roast{border:2px solid var(--stamp);padding:1rem 1.1rem;margin-top:1rem}
+.roast .narr{font-size:1.02rem}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body><div class="wrap">
+<header><div class="org"><span>Amanda Belichick &middot; automated league oversight</span><span>Case files</span></div><h1>Recaps</h1><p class="dek">One file per week. Nothing is deleted.</p></header><div class="idx"><a href="2025-wk09.html"><span class="who">2025 week 9</span><span class="line">cj21k def. goatnasty by 58.84</span></a></div></div></body></html>

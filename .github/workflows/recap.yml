@@ -33,7 +33,7 @@ jobs:
           python-version: '3.11'
 
       - name: Build the fact pack
-        run: |
+        run: \
           python3 recap_data.py \
             --data sleeper_history \
             --season "${{ github.event.inputs.season }}" \
@@ -42,4 +42,4 @@ jobs:
             --out recaps
 
       - name: Re-derive every number in it
-        run: |                                                                                                                     1,1           Top
+        run: \

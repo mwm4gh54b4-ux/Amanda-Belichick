@@ -62,10 +62,6 @@
  },
  "avatar": null,
  "company_id": null,
- "shard": 921,
- "season": "2025",
- "season_type": "regular",
- "sport": "nfl",
  "scoring_settings": {
   "sack": 1.0,
   "fgm_40_49": 4.0,
@@ -115,6 +111,10 @@
   "pts_allow_7_13": 4.0,
   "st_ff": 1.0
  },
+ "season": "2025",
+ "season_type": "regular",
+ "shard": 921,
+ "sport": "nfl",
  "last_message_id": "1312002769669865472",
  "draft_id": "1256644178956259328",
  "last_author_avatar": null,

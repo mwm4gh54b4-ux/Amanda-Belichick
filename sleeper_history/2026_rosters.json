@@ -168,7 +168,8 @@
  {
   "co_owners": null,
   "keepers": [
-   "12508"
+   "12508",
+   "12512"
   ],
   "league_id": "1388695778494517248",
   "metadata": {
@@ -454,7 +455,11 @@
  },
  {
   "co_owners": null,
-  "keepers": null,
+  "keepers": [
+   "11560",
+   "5859",
+   "7588"
+  ],
   "league_id": "1388695778494517248",
   "metadata": {
    "allow_pn_inactive_starters": "off",

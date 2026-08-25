@@ -7,10 +7,21 @@
    "609820611241381888"
   ],
   "draft_id": "1388695778507108352",
-  "draft_order": null,
+  "draft_order": {
+   "420615526545371136": 3,
+   "461523110798028800": 2,
+   "598597175282294784": 8,
+   "609820611241381888": 4,
+   "753769537157132288": 9,
+   "755983733399777280": 10,
+   "994438877710475264": 5,
+   "994443865597755392": 1,
+   "994482107223224320": 6,
+   "994730649632260096": 7
+  },
   "last_message_id": "1388695778507108352",
   "last_message_time": 1785453383618,
-  "last_picked": null,
+  "last_picked": 1787535902619,
   "league_id": "1388695778494517248",
   "metadata": {
    "description": "",
@@ -32,8 +43,8 @@
    "pick_timer": 120,
    "player_type": 0,
    "reversal_round": 0,
-   "rounds": 16,
-   "slots_bn": 5,
+   "rounds": 17,
+   "slots_bn": 6,
    "slots_def": 1,
    "slots_flex": 1,
    "slots_k": 1,
@@ -45,7 +56,7 @@
    "teams": 10
   },
   "sport": "nfl",
-  "start_time": null,
+  "start_time": 1788134404000,
   "status": "pre_draft",
   "type": "snake"
  }

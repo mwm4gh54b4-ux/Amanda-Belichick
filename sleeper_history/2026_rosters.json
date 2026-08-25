@@ -1,7 +1,10 @@
 [
  {
   "co_owners": null,
-  "keepers": null,
+  "keepers": [
+   "7543",
+   "8151"
+  ],
   "league_id": "1388695778494517248",
   "metadata": null,
   "owner_id": "755983733399777280",
@@ -53,7 +56,11 @@
  },
  {
   "co_owners": null,
-  "keepers": null,
+  "keepers": [
+   "3163",
+   "8137",
+   "8138"
+  ],
   "league_id": "1388695778494517248",
   "metadata": {
    "allow_pn_inactive_starters": "on",
@@ -109,7 +116,11 @@
  },
  {
   "co_owners": null,
-  "keepers": null,
+  "keepers": [
+   "4034",
+   "7611",
+   "8144"
+  ],
   "league_id": "1388695778494517248",
   "metadata": {
    "allow_pn_inactive_starters": "on",
@@ -168,6 +179,7 @@
  {
   "co_owners": null,
   "keepers": [
+   "10236",
    "12508",
    "12512"
   ],
@@ -226,7 +238,11 @@
  },
  {
   "co_owners": null,
-  "keepers": null,
+  "keepers": [
+   "11564",
+   "12481",
+   "7021"
+  ],
   "league_id": "1388695778494517248",
   "metadata": {
    "allow_pn_inactive_starters": "on",
@@ -283,7 +299,11 @@
  },
  {
   "co_owners": null,
-  "keepers": null,
+  "keepers": [
+   "12517",
+   "12526",
+   "3294"
+  ],
   "league_id": "1388695778494517248",
   "metadata": {
    "p_nick_4017": "Analrapist"
@@ -404,7 +424,10 @@
  },
  {
   "co_owners": null,
-  "keepers": null,
+  "keepers": [
+   "12519",
+   "1479"
+  ],
   "league_id": "1388695778494517248",
   "metadata": null,
   "owner_id": "994443865597755392",

@@ -1,11 +1,9 @@
 {
  "name": "Amanda Belichick",
- "status": "pre_draft",
+ "status": "in_season",
  "metadata": {
   "auto_continue": "on",
-  "current_pick_no": "1",
-  "keeper_deadline": "7",
-  "on_the_clock_user_id": "994443865597755392"
+  "keeper_deadline": "7"
  },
  "settings": {
   "best_ball": 0,
@@ -55,7 +53,8 @@
   "offseason_adds": 0,
   "leg": 1,
   "reserve_slots": 2,
-  "reserve_allow_cov": 1
+  "reserve_allow_cov": 1,
+  "daily_waivers_last_ran": 31
  },
  "avatar": null,
  "company_id": null,
@@ -112,21 +111,24 @@
  "season_type": "regular",
  "shard": 705,
  "sport": "nfl",
- "last_message_id": "1397677047110750208",
+ "last_message_id": "1400246098664112128",
+ "draft_id": "1388695778507108352",
  "last_author_avatar": null,
  "last_author_display_name": "sys",
  "last_author_id": "166666666666666666",
  "last_author_is_bot": true,
  "last_message_attachment": null,
  "last_message_text_map": null,
- "last_message_time": 1787594684917,
+ "last_message_time": 1788207194538,
  "last_pinned_message_id": null,
- "draft_id": "1388695778507108352",
  "last_read_id": null,
  "league_id": "1388695778494517248",
  "previous_league_id": "1256644178943688704",
- "group_id": null,
  "bracket_id": null,
+ "bracket_overrides_id": null,
+ "group_id": null,
+ "loser_bracket_id": null,
+ "loser_bracket_overrides_id": null,
  "roster_positions": [
   "QB",
   "RB",
@@ -146,8 +148,5 @@
   "BN",
   "BN"
  ],
- "bracket_overrides_id": null,
- "loser_bracket_id": null,
- "loser_bracket_overrides_id": null,
  "total_rosters": 10
 }

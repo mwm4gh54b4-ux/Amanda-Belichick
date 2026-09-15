@@ -59,6 +59,10 @@
  },
  "avatar": null,
  "company_id": null,
+ "shard": 66,
+ "season": "2023",
+ "season_type": "regular",
+ "sport": "nfl",
  "scoring_settings": {
   "sack": 1.0,
   "fgm_40_49": 4.0,
@@ -118,10 +122,6 @@
   "st_ff": 1.0,
   "idp_tkl_ast": 0.0
  },
- "season": "2023",
- "season_type": "regular",
- "sport": "nfl",
- "shard": 66,
  "last_message_id": "1048172513772761088",
  "draft_id": "994460673474191360",
  "last_author_avatar": null,

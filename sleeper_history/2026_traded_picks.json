@@ -35,6 +35,13 @@
   "previous_owner_id": 5
  },
  {
+  "round": 5,
+  "season": "2027",
+  "roster_id": 5,
+  "owner_id": 8,
+  "previous_owner_id": 5
+ },
+ {
   "round": 12,
   "season": "2027",
   "roster_id": 5,
@@ -102,6 +109,13 @@
   "season": "2026",
   "roster_id": 8,
   "owner_id": 2,
+  "previous_owner_id": 8
+ },
+ {
+  "round": 2,
+  "season": "2027",
+  "roster_id": 8,
+  "owner_id": 5,
   "previous_owner_id": 8
  },
  {

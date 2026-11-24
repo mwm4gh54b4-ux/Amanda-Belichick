@@ -124,9 +124,9 @@
  "last_read_id": null,
  "draft_id": "1124121044685656065",
  "previous_league_id": "994439790072279040",
+ "group_id": null,
  "bracket_id": 1172489864998842369,
  "bracket_overrides_id": null,
- "group_id": null,
  "loser_bracket_id": 1172489865007230976,
  "loser_bracket_overrides_id": null,
  "roster_positions": [
